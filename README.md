@@ -3,6 +3,9 @@
 
 Basic 3d scene using BabylonJS
 
+Tags:
+ArcRotateCamera, lowerBetaLimit, upperBetaLimit, MeshBuilder, DirectionalLight, shadowGenerator, registerBeforeRender
+
 
 ## Playground code
 
